@@ -1,4 +1,4 @@
-# PROJETO-CYBERSEC-DIO - Leonardo Vieira
+# PROJETO-CYBERSEC-DIO - Francisco Leonardo Vieira
 DOCUMENTAÇÃO - PROJETO PRÁTICO DE CIBERSEGURANÇA - DIO.
 
 O projeto aqui documentado visa aplicar na prática os conhecimentos adquiridos durante o curso sobre ataques de força bruta em um ambiente controlado, usando máquinas virtuais com sistemas operacionais Kali Linux e Metasploitable 2. 
